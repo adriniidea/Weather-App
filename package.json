@@ -1,6 +1,6 @@
 {
   "name": "weather-app-am",
-  
+  "homepage": "https://github.com/adriniidea/Weather-app.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
